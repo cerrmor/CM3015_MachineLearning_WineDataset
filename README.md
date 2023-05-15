@@ -5,4 +5,7 @@ In this assignment I was required to explore the wine dataset provided by sklear
 
 The attached HTML file is a python jupyter notebook HTML file and opens as a webpage.
 
-Key technologies used was python, jupyter notebooks and KERAS machine learning library.
+Key technologies used were:
+* python
+* jupyter notebooks 
+* KERAS machine learning library

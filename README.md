@@ -9,3 +9,5 @@ Key technologies used were:
 * python
 * jupyter notebooks 
 * KERAS machine learning library
+
+Dataset provided by sklearn as an open source library for learning machine learning.
